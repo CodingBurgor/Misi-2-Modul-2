@@ -6,4 +6,4 @@ pengguna juga akan diminta untuk memasukkan nama dari pelanggan lalu memencet en
 
 setiap pemilihan pilihan dapat dilakukan dengan mengetik nomor yang berada dalam tandakurung () pada pilihan tersebut lalu memencet enter
 
-ikuti setiap instruksi pada program jika terjadi suatu kesalahan input :)
+apabila terjadi kesalahan input, tinggal mengikuti instruksi program
